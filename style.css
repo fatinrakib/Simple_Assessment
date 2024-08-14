@@ -1,0 +1,21 @@
+table {
+  width: 30%;
+  border-collapse: collapse;
+}
+
+table, tr, td, th{
+  border: 1px solid;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.right-align {
+  text-align: right;
+}
+
+.center-align {
+  text-align: center;
+}
+
